@@ -1,4 +1,9 @@
-#RSF
+
+# 请注意：RSF 项目回归 Hasor。为了方便后续开发维护，此代码库暂停维护。请您更新 Fork 和 Star 到下面两个地址：
+## 源码和历史版本已迁移到：http://git.oschina.net/zycgit/hasor or https://github.com/zycgit/hasor
+----------
+
+# RSF
 
 &emsp;&emsp;一个高可用、高性能、轻量级的分布式服务框架。支持容灾、负载均衡、集群。一个典型的应用场景是，将同一个服务部署在多个`Server`上提供 request、response 消息通知。
 
